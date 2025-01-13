@@ -316,7 +316,7 @@ async def process_instagram_urls_with_progress(url_input, file_input):
         
 
 
-        if url == "https://www.instagram.com/p/DEQ82hyKvN1/":
+        if url == "":
                 print(f"Reached target video ID {url}. Stopping.")
                 break
         try:
