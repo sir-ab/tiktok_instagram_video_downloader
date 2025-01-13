@@ -1,0 +1,4 @@
+ blinker==1.7.0
+ setuptools
+
+ chrome.exe --remote-debugging-port=9222 --proxy-server=localhost:12345 --user-data-dir="D:\WEBSCRAPING\AB"
